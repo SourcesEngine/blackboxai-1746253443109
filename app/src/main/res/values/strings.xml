@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Canteen App</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="invalid_credentials">Invalid credentials</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="register_as_student">Register as Student</string>
+    <string name="add_item">Add item</string>
+    <string name="edit_item">Edit item</string>
+    <string name="delete_item">Delete item</string>
+    <string name="add_staff">Add staff</string>
+    <string name="edit_user">Edit user</string>
+    <string name="delete_user">Delete user</string>
+    <string name="user_avatar">User avatar</string>
+    <string name="item_image">Item image</string>
+    <string name="filter_menu">Filter menu</string>
+    <string name="view_cart">View Cart</string>
+    <string name="cart_empty">Your cart is empty</string>
+    <string name="cart_summary">%d items | $%.2f</string>
+    <string name="wallet_balance">Balance: $%.2f</string>
+    <string name="top_up_wallet">Top Up Wallet</string>
+    <string name="change_password">Change Password</string>
+    <string name="staff_role">Canteen Staff</string>
+    <string name="complete">Complete</string>
+    <string name="cancel">Cancel</string>
+    
+    <string-array name="roles_array">
+        <item>Student</item>
+        <item>Canteen Staff</item>
+        <item>Admin</item>
+    </string-array>
+</resources>
